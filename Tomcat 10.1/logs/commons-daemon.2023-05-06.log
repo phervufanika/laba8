@@ -1,0 +1,8 @@
+[2023-05-06 00:54:27] [info]  [25492] Apache Commons Daemon procrun (1.3.3.0 64-bit) started.
+[2023-05-06 00:54:27] [info]  [25492] Running Service 'Tomcat10'...
+[2023-05-06 00:54:27] [info]  [23188] Starting service...
+[2023-05-06 00:54:27] [error] [ 3520] FindClass org/apache/catalina/startup/Bootstrap failed
+[2023-05-06 00:54:27] [error] [23188] Failed to start Java
+[2023-05-06 00:54:27] [error] [23188] ServiceStart returned 4.
+[2023-05-06 00:54:27] [info]  [25492] Run service finished.
+[2023-05-06 00:54:27] [info]  [25492] Apache Commons Daemon procrun finished.
